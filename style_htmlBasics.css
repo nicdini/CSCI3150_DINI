@@ -1,0 +1,43 @@
+
+      body {
+        background-color: #fff;
+        color: #333;
+        font: 1em / 1.4 Helvetica Neue, Helvetica, Arial, sans-serif;
+        padding: 1em;
+        margin: 0;
+      }
+
+h1, h2 {
+  color: blue;
+}
+
+p {
+  color: black;
+}
+
+ul {
+  border: 6px solid orange;
+}
+
+ol {
+  border: 4px solid purple;
+}
+
+ol, ul {
+  padding: 10px 25px;
+  border-radius: 6px;
+}
+
+h1, strong {
+  color: green;
+}
+
+em {
+  color: gray;
+}
+
+
+      * {
+        box-sizing: border-box;
+      }
+   
